@@ -3,10 +3,9 @@
 The Memento Pattern encapsulates an object’s state so it can be saved and restored later. This keeps the internal state hidden.
 
 The Memento Pattern has *three main components*:
-
-	1.	Originator: The object whose state is saved and restored.
-	2.	Memento: The object that stores the state.
-	3.	Caretaker: Manages Memento objects and handles saving and restoring the Originator’s state.
+1. Originator: The object whose state is saved and restored.
+2. Memento: The object that stores the state.
+3. Caretaker: Manages Memento objects and handles saving and restoring the Originator’s state.
 
 ### Overview
 
